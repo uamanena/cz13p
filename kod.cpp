@@ -1,6 +1,8 @@
 int main() {
 
-float a = 4.0;
+float a = 3.0;
+
+int b = 5;
 
 return a;
 
