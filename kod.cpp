@@ -1,9 +1,9 @@
 int main() {
 
-float a = 3.0;
+float d = 18.0;
 
-int b = 5;
+int aaa = 5;
 
-return a;
+return d;
 
 }
